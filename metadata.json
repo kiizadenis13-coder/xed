@@ -1,0 +1,6 @@
+{
+  "name": "xportz",
+  "description": "xportz: Real-time mission control dashboard with intelligent multi-portal execution hubs, precision decimal gradient odometers, and dual-currency UGX/USD telemetry. Built by XED.CO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
